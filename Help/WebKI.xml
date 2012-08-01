@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="Addition operator" Url="html/1af3388b-f9b7-fce6-a682-ff620f29925d.htm" />
+  <HelpKINode Title="Backward property" Url="html/341f678b-6d2b-04e1-1598-fa7728c49d71.htm" />
+  <HelpKINode Title="Client class" Url="html/92bce27d-af2b-64ab-b591-c1e55bf1a3be.htm" />
+  <HelpKINode Title="Client class" Url="html/c04f9632-ce35-e30f-f064-9f0fbe45727d.htm" />
+  <HelpKINode Title="Client class">
+    <HelpKINode Title="about Client class" Url="html/c04f9632-ce35-e30f-f064-9f0fbe45727d.htm" />
+    <HelpKINode Title="all members" Url="html/92bce27d-af2b-64ab-b591-c1e55bf1a3be.htm" />
+    <HelpKINode Title="constructor" Url="html/03ab077e-4cff-052b-bc75-8241c6a99db6.htm" />
+    <HelpKINode Title="methods" Url="html/c107e111-2162-15b2-bff5-9acfc2099666.htm" />
+    <HelpKINode Title="properties" Url="html/606c8fef-bd42-cde2-d265-92977ab9dbd0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Client.Client constructor" Url="html/03ab077e-4cff-052b-bc75-8241c6a99db6.htm" />
+  <HelpKINode Title="Client.ClientEndPoint property" Url="html/e09ee8e3-031f-8ae7-e965-f1cca43c69a4.htm" />
+  <HelpKINode Title="Client.LoggedIn property" Url="html/64ddee33-f9d4-6da9-5314-d44a97cfb60e.htm" />
+  <HelpKINode Title="Client.PacketHistory property" Url="html/10536f58-233d-48bc-5476-0d933d4a4753.htm" />
+  <HelpKINode Title="Client.PacketQueue property" Url="html/86f8b09a-2c1a-069c-ede1-1981c36f0f41.htm" />
+  <HelpKINode Title="Client.Tags property" Url="html/ca2ce58d-9579-e62f-71a7-8fce01176bc9.htm" />
+  <HelpKINode Title="Client.TcpClient property" Url="html/ccc9e7d6-f753-b78b-c357-6f2799ce92fa.htm" />
+  <HelpKINode Title="ClientEndPoint property" Url="html/e09ee8e3-031f-8ae7-e965-f1cca43c69a4.htm" />
+  <HelpKINode Title="Clients property" Url="html/99bf56fc-da6a-c4a2-4206-cbec0ea17b78.htm" />
+  <HelpKINode Title="Clone method" Url="html/8e86f819-1e20-d2ad-8ffe-bed3eb1ff7c3.htm" />
+  <HelpKINode Title="CollisionBox property" Url="html/2a91842c-ce44-3fd0-818d-4fcb1ad0c473.htm" />
+  <HelpKINode Title="CollisionBox property" Url="html/c6f17f01-1a9a-6fe9-7471-698197bb1c35.htm" />
+  <HelpKINode Title="Cube class" Url="html/999c8aa9-b133-460d-7f94-3a884cffbedb.htm" />
+  <HelpKINode Title="Cube class" Url="html/f79c1f24-1952-e724-2996-ee292f8bf0ca.htm" />
+  <HelpKINode Title="Cube class">
+    <HelpKINode Title="about Cube class" Url="html/f79c1f24-1952-e724-2996-ee292f8bf0ca.htm" />
+    <HelpKINode Title="all members" Url="html/999c8aa9-b133-460d-7f94-3a884cffbedb.htm" />
+    <HelpKINode Title="constructor" Url="html/58d55842-7f19-e11b-9217-1b948b56b803.htm" />
+    <HelpKINode Title="fields" Url="html/524cac51-e2c2-2ac4-cbeb-ea5eec851161.htm" />
+    <HelpKINode Title="methods" Url="html/e8d5c4a6-23f1-178e-1bbc-e395094abf44.htm" />
+    <HelpKINode Title="properties" Url="html/56303b88-59ef-93b7-01ab-039707083135.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Cube.Cube constructor" Url="html/58d55842-7f19-e11b-9217-1b948b56b803.htm" />
+  <HelpKINode Title="Cube.Default field" Url="html/d74afa9c-55c7-57ea-f75c-d486f684c989.htm" />
+  <HelpKINode Title="Cube.Equals method" Url="html/9964bb7f-acfe-422c-3be5-67269685b948.htm" />
+  <HelpKINode Title="Cube.Location property" Url="html/3b49525e-7702-9455-523b-c7b6d8a44638.htm" />
+  <HelpKINode Title="Cube.Size property" Url="html/6125cda7-f9a1-3916-2caa-de5aca7081fc.htm" />
+  <HelpKINode Title="Default field" Url="html/d74afa9c-55c7-57ea-f75c-d486f684c989.htm" />
+  <HelpKINode Title="Down property" Url="html/af5d6028-fabc-0298-6acd-0dc4548b9f14.htm" />
+  <HelpKINode Title="East property" Url="html/04c73c6a-9bad-81ce-6dad-b78fdd021ffb.htm" />
+  <HelpKINode Title="Entity class" Url="html/4836c4bb-eeb3-9e55-04b6-4427aa40e6c7.htm" />
+  <HelpKINode Title="Entity class" Url="html/efd87caa-930d-b72e-237b-79809a7c84df.htm" />
+  <HelpKINode Title="Entity class">
+    <HelpKINode Title="about Entity class" Url="html/4836c4bb-eeb3-9e55-04b6-4427aa40e6c7.htm" />
+    <HelpKINode Title="all members" Url="html/efd87caa-930d-b72e-237b-79809a7c84df.htm" />
+    <HelpKINode Title="constructor" Url="html/335c0b7a-7636-6f74-b6a2-b57828fbc779.htm" />
+    <HelpKINode Title="events" Url="html/44f6557f-324d-3979-7331-4e591c4c69f9.htm" />
+    <HelpKINode Title="methods" Url="html/f9cd55e9-20e0-4e7c-c4a1-2c88c2add688.htm" />
+    <HelpKINode Title="properties" Url="html/224762cf-0d53-fadb-68da-7d7c9216dd20.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Entity.CollisionBox property" Url="html/2a91842c-ce44-3fd0-818d-4fcb1ad0c473.htm" />
+  <HelpKINode Title="Entity.Entity constructor" Url="html/335c0b7a-7636-6f74-b6a2-b57828fbc779.htm" />
+  <HelpKINode Title="Entity.Gravity property" Url="html/884879ba-ba20-c08e-b38b-364a5d77f0e6.htm" />
+  <HelpKINode Title="Entity.ID property" Url="html/c57c71d6-f6e4-4fb3-4065-d5ffea3ca852.htm" />
+  <HelpKINode Title="Entity.Location property" Url="html/4751879c-0e66-b711-4be5-dcdee3e6ccd1.htm" />
+  <HelpKINode Title="Entity.OldLocation property" Url="html/059286cc-eca9-f486-8636-ffc63b7d6d6a.htm" />
+  <HelpKINode Title="Entity.OnGround property" Url="html/3ef18331-de18-10fe-d187-f714d9f7713f.htm" />
+  <HelpKINode Title="Entity.OnPropertyChanged method" Url="html/6306aaa9-40e1-ea60-df3f-fa3ffa8ed32c.htm" />
+  <HelpKINode Title="Entity.PropertyChanged event" Url="html/8343fa0e-da98-39ea-04c9-675e05e49182.htm" />
+  <HelpKINode Title="Entity.TimeOnFire property" Url="html/bf0f93fc-7d3d-f829-7028-238d71538c1e.htm" />
+  <HelpKINode Title="Entity.TypeID property" Url="html/2940e214-1f93-1d92-bdc3-517213fe432e.htm" />
+  <HelpKINode Title="Entity.Velocity property" Url="html/61b40f60-2c82-108e-c978-f73cc16b5764.htm" />
+  <HelpKINode Title="Equals method" Url="html/6bbfe7a0-2157-abcd-1da4-2b69ebfa9364.htm" />
+  <HelpKINode Title="Equals method" Url="html/9964bb7f-acfe-422c-3be5-67269685b948.htm" />
+  <HelpKINode Title="Floor method" Url="html/3654ac10-cce7-cc33-bd57-82037a117c5e.htm" />
+  <HelpKINode Title="Forward property" Url="html/0e505ba1-815f-e17b-9b18-4634dbb72863.htm" />
+  <HelpKINode Title="Gravity property" Url="html/884879ba-ba20-c08e-b38b-364a5d77f0e6.htm" />
+  <HelpKINode Title="ID property" Url="html/c57c71d6-f6e4-4fb3-4065-d5ffea3ca852.htm" />
+  <HelpKINode Title="IntToByte method" Url="html/333255ae-46b5-f350-d8a8-70fbfc49689e.htm" />
+  <HelpKINode Title="KeepAlive class" Url="html/02367990-236f-594c-b2c9-14a72b8fb607.htm" />
+  <HelpKINode Title="KeepAlive class" Url="html/afc719a0-01a5-7a6f-7e2b-75071e34ad93.htm" />
+  <HelpKINode Title="KeepAlive class">
+    <HelpKINode Title="about KeepAlive class" Url="html/afc719a0-01a5-7a6f-7e2b-75071e34ad93.htm" />
+    <HelpKINode Title="all members" Url="html/02367990-236f-594c-b2c9-14a72b8fb607.htm" />
+    <HelpKINode Title="constructor" Url="html/bf8e53bb-d20c-5de3-ef13-4c500b791616.htm" />
+    <HelpKINode Title="methods" Url="html/47b4caf6-27fe-b454-ab35-2854c71d8ad9.htm" />
+    <HelpKINode Title="properties" Url="html/b7498977-fb14-0fa0-dcb7-0348eb11dec5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeepAlive enumeration member" Url="html/2b90cf39-77a2-dec1-b8df-2e3e9c895e9d.htm" />
+  <HelpKINode Title="KeepAlive.KeepAlive constructor" Url="html/bf8e53bb-d20c-5de3-ef13-4c500b791616.htm" />
+  <HelpKINode Title="KeepAlive.Length property" Url="html/3321f888-cd48-7e2c-268f-1c04f686b750.htm" />
+  <HelpKINode Title="KeepAlive.PacketID property" Url="html/a89b6632-ffc6-5ffd-9d7e-6548d9a0232f.htm" />
+  <HelpKINode Title="KeepAlive.Payload property" Url="html/1ed479ca-83e2-786f-c2ae-c563ee10c680.htm" />
+  <HelpKINode Title="Left property" Url="html/a6d0ed24-aa55-d0ba-24a1-1f2143b05852.htm" />
+  <HelpKINode Title="Length property" Url="html/3321f888-cd48-7e2c-268f-1c04f686b750.htm" />
+  <HelpKINode Title="Length property" Url="html/ffab8878-bbdb-c8ac-b188-b373b4bab91b.htm" />
+  <HelpKINode Title="Location property" Url="html/3b49525e-7702-9455-523b-c7b6d8a44638.htm" />
+  <HelpKINode Title="Location property" Url="html/4751879c-0e66-b711-4be5-dcdee3e6ccd1.htm" />
+  <HelpKINode Title="LoggedIn property" Url="html/64ddee33-f9d4-6da9-5314-d44a97cfb60e.htm" />
+  <HelpKINode Title="Map class" Url="html/72e90af4-b57f-3fb5-7be2-fa312f9734dd.htm" />
+  <HelpKINode Title="Map class" Url="html/e02cd495-d489-f219-030c-22e21faadc72.htm" />
+  <HelpKINode Title="Map class">
+    <HelpKINode Title="about Map class" Url="html/e02cd495-d489-f219-030c-22e21faadc72.htm" />
+    <HelpKINode Title="all members" Url="html/72e90af4-b57f-3fb5-7be2-fa312f9734dd.htm" />
+    <HelpKINode Title="constructor" Url="html/19a38e53-d4c8-5279-8e2f-dc3366e82daf.htm" />
+    <HelpKINode Title="methods" Url="html/60c3e152-bc9c-b5e4-490b-073cbe595bb1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Map property" Url="html/da172a72-2171-4016-5c0a-b340e0e329c0.htm" />
+  <HelpKINode Title="Map.Map constructor" Url="html/19a38e53-d4c8-5279-8e2f-dc3366e82daf.htm" />
+  <HelpKINode Title="Name property" Url="html/fb22598f-fb92-d87b-c082-6d618a294d66.htm" />
+  <HelpKINode Title="North property" Url="html/abdf5841-4a0d-5a00-b52f-bb6af99c884c.htm" />
+  <HelpKINode Title="OldLocation property" Url="html/059286cc-eca9-f486-8636-ffc63b7d6d6a.htm" />
+  <HelpKINode Title="One property" Url="html/ca6e6dab-d4f0-282e-31bc-51c3cf1ec40d.htm" />
+  <HelpKINode Title="OnGround property" Url="html/3ef18331-de18-10fe-d187-f714d9f7713f.htm" />
+  <HelpKINode Title="OnPropertyChanged method" Url="html/6306aaa9-40e1-ea60-df3f-fa3ffa8ed32c.htm" />
+  <HelpKINode Title="Packet class" Url="html/7905525e-0ae2-a43b-8176-af76598a4bea.htm" />
+  <HelpKINode Title="Packet class" Url="html/c646cf91-a3ec-89fe-ba0d-61d92a970a04.htm" />
+  <HelpKINode Title="Packet class">
+    <HelpKINode Title="about Packet class" Url="html/7905525e-0ae2-a43b-8176-af76598a4bea.htm" />
+    <HelpKINode Title="all members" Url="html/c646cf91-a3ec-89fe-ba0d-61d92a970a04.htm" />
+    <HelpKINode Title="constructor" Url="html/940c2d65-78c3-b4b1-5bf3-04374421aa78.htm" />
+    <HelpKINode Title="methods" Url="html/925ce89c-2967-e469-3545-22bcca04dd59.htm" />
+    <HelpKINode Title="properties" Url="html/c3e7a0ed-84f0-a920-069e-b63e8d6782cd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Packet.IntToByte method" Url="html/333255ae-46b5-f350-d8a8-70fbfc49689e.htm" />
+  <HelpKINode Title="Packet.Length property" Url="html/ffab8878-bbdb-c8ac-b188-b373b4bab91b.htm" />
+  <HelpKINode Title="Packet.Packet constructor" Url="html/940c2d65-78c3-b4b1-5bf3-04374421aa78.htm" />
+  <HelpKINode Title="Packet.PacketID property" Url="html/4d744a97-6d08-9494-e3ad-e17dff8a7297.htm" />
+  <HelpKINode Title="Packet.Payload property" Url="html/9bea7d8d-e432-d0e0-46b6-9f763e1476e9.htm" />
+  <HelpKINode Title="PacketHistory property" Url="html/10536f58-233d-48bc-5476-0d933d4a4753.htm" />
+  <HelpKINode Title="PacketID enumeration" Url="html/2b90cf39-77a2-dec1-b8df-2e3e9c895e9d.htm" />
+  <HelpKINode Title="PacketID property" Url="html/4d744a97-6d08-9494-e3ad-e17dff8a7297.htm" />
+  <HelpKINode Title="PacketID property" Url="html/a89b6632-ffc6-5ffd-9d7e-6548d9a0232f.htm" />
+  <HelpKINode Title="PacketQueue property" Url="html/86f8b09a-2c1a-069c-ede1-1981c36f0f41.htm" />
+  <HelpKINode Title="Payload property" Url="html/1ed479ca-83e2-786f-c2ae-c563ee10c680.htm" />
+  <HelpKINode Title="Payload property" Url="html/9bea7d8d-e432-d0e0-46b6-9f763e1476e9.htm" />
+  <HelpKINode Title="PlayerEntity class" Url="html/25930140-448e-19d7-4e39-8f91204d051f.htm" />
+  <HelpKINode Title="PlayerEntity class" Url="html/8378b8ee-b4d5-bf1f-be83-a8b57cf23a5b.htm" />
+  <HelpKINode Title="PlayerEntity class">
+    <HelpKINode Title="about PlayerEntity class" Url="html/25930140-448e-19d7-4e39-8f91204d051f.htm" />
+    <HelpKINode Title="all members" Url="html/8378b8ee-b4d5-bf1f-be83-a8b57cf23a5b.htm" />
+    <HelpKINode Title="constructor" Url="html/96e04d96-cb40-3006-9538-b1c7fedb1e5f.htm" />
+    <HelpKINode Title="events" Url="html/1c328196-903a-3988-db5c-c18e98cab94d.htm" />
+    <HelpKINode Title="methods" Url="html/b6276330-26b0-ec78-00ca-8503da1b3989.htm" />
+    <HelpKINode Title="properties" Url="html/1c911637-7cca-df97-111a-69aab9fe5589.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PlayerEntity.CollisionBox property" Url="html/c6f17f01-1a9a-6fe9-7471-698197bb1c35.htm" />
+  <HelpKINode Title="PlayerEntity.Name property" Url="html/fb22598f-fb92-d87b-c082-6d618a294d66.htm" />
+  <HelpKINode Title="PlayerEntity.PlayerEntity constructor" Url="html/96e04d96-cb40-3006-9538-b1c7fedb1e5f.htm" />
+  <HelpKINode Title="PlayerEntity.TypeID property" Url="html/91e7cc4c-4a35-5fdd-a821-e2fb5127c3a4.htm" />
+  <HelpKINode Title="Port property" Url="html/1c6df758-3ec0-bd5c-cbed-4cbf9c0d4e4a.htm" />
+  <HelpKINode Title="PropertyChanged event" Url="html/8343fa0e-da98-39ea-04c9-675e05e49182.htm" />
+  <HelpKINode Title="ProtocolVersion field" Url="html/7e4628ba-2760-60ba-a547-83109ef8a473.htm" />
+  <HelpKINode Title="Right property" Url="html/d4a3af71-db35-66f1-74c7-a974c73d1327.htm" />
+  <HelpKINode Title="Seed property" Url="html/f367ef10-68dc-8182-604d-54bb0d186101.htm" />
+  <HelpKINode Title="Settings class" Url="html/863848ea-3247-6439-0356-c56b876dc76a.htm" />
+  <HelpKINode Title="Settings class" Url="html/915d11a6-68bf-084a-2e72-218d9db9ba64.htm" />
+  <HelpKINode Title="Settings class">
+    <HelpKINode Title="about Settings class" Url="html/863848ea-3247-6439-0356-c56b876dc76a.htm" />
+    <HelpKINode Title="all members" Url="html/915d11a6-68bf-084a-2e72-218d9db9ba64.htm" />
+    <HelpKINode Title="constructor" Url="html/7c1d8cf1-25f1-762a-35b9-12f8ee20a67c.htm" />
+    <HelpKINode Title="methods" Url="html/3e199f32-648a-0e62-beba-c5e7538619a6.htm" />
+    <HelpKINode Title="properties" Url="html/cccbb147-21d5-70ce-37c8-4a26fc83eecd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Settings.Port property" Url="html/1c6df758-3ec0-bd5c-cbed-4cbf9c0d4e4a.htm" />
+  <HelpKINode Title="Settings.Seed property" Url="html/f367ef10-68dc-8182-604d-54bb0d186101.htm" />
+  <HelpKINode Title="Settings.Settings constructor" Url="html/7c1d8cf1-25f1-762a-35b9-12f8ee20a67c.htm" />
+  <HelpKINode Title="Settings.WorldName property" Url="html/43efc618-1a23-e9bd-801c-12baf216629d.htm" />
+  <HelpKINode Title="SharpCraft class" Url="html/b2c4a1fc-6bb2-84f0-871b-a8e8a9bfeb89.htm" />
+  <HelpKINode Title="SharpCraft class" Url="html/d345012e-4ab8-22c0-04ca-f51d962fdc73.htm" />
+  <HelpKINode Title="SharpCraft class">
+    <HelpKINode Title="about SharpCraft class" Url="html/d345012e-4ab8-22c0-04ca-f51d962fdc73.htm" />
+    <HelpKINode Title="all members" Url="html/b2c4a1fc-6bb2-84f0-871b-a8e8a9bfeb89.htm" />
+    <HelpKINode Title="constructor" Url="html/d6aefe8e-0871-2722-78b2-b0bbf33a46aa.htm" />
+    <HelpKINode Title="fields" Url="html/323e0781-765e-b8c3-f76b-4cd31fc99900.htm" />
+    <HelpKINode Title="methods" Url="html/4c67a9f1-6d9c-f4cc-8dd8-7604695d1248.htm" />
+    <HelpKINode Title="properties" Url="html/21bf3580-10ed-1543-a3ac-cc065eda3dde.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SharpCraft namespace" Url="html/dd79cb9c-5f69-e7f5-1842-96b694aef84f.htm" />
+  <HelpKINode Title="SharpCraft.Clients property" Url="html/99bf56fc-da6a-c4a2-4206-cbec0ea17b78.htm" />
+  <HelpKINode Title="SharpCraft.Common namespace" Url="html/a3184390-1825-01ea-1387-4260943e6716.htm" />
+  <HelpKINode Title="SharpCraft.Common.Cube class" Url="html/999c8aa9-b133-460d-7f94-3a884cffbedb.htm" />
+  <HelpKINode Title="SharpCraft.Common.Cube class" Url="html/f79c1f24-1952-e724-2996-ee292f8bf0ca.htm" />
+  <HelpKINode Title="SharpCraft.Common.Entity class" Url="html/4836c4bb-eeb3-9e55-04b6-4427aa40e6c7.htm" />
+  <HelpKINode Title="SharpCraft.Common.Entity class" Url="html/efd87caa-930d-b72e-237b-79809a7c84df.htm" />
+  <HelpKINode Title="SharpCraft.Common.Vector3 class" Url="html/856f7c87-0b47-8360-fdd9-ad647e1a27ba.htm" />
+  <HelpKINode Title="SharpCraft.Common.Vector3 class" Url="html/c7ef2619-c6f3-ff55-54e9-87114c32ed24.htm" />
+  <HelpKINode Title="SharpCraft.Map property" Url="html/da172a72-2171-4016-5c0a-b340e0e329c0.htm" />
+  <HelpKINode Title="SharpCraft.Net namespace" Url="html/4c68fa09-abe6-4cf5-85e0-c37f9bd45472.htm" />
+  <HelpKINode Title="SharpCraft.Net.Client class" Url="html/92bce27d-af2b-64ab-b591-c1e55bf1a3be.htm" />
+  <HelpKINode Title="SharpCraft.Net.Client class" Url="html/c04f9632-ce35-e30f-f064-9f0fbe45727d.htm" />
+  <HelpKINode Title="SharpCraft.Net.Packets namespace" Url="html/3e5b7bf5-0264-4479-5671-dc0b843a324c.htm" />
+  <HelpKINode Title="SharpCraft.Net.Packets.KeepAlive class" Url="html/02367990-236f-594c-b2c9-14a72b8fb607.htm" />
+  <HelpKINode Title="SharpCraft.Net.Packets.KeepAlive class" Url="html/afc719a0-01a5-7a6f-7e2b-75071e34ad93.htm" />
+  <HelpKINode Title="SharpCraft.Net.Packets.Packet class" Url="html/7905525e-0ae2-a43b-8176-af76598a4bea.htm" />
+  <HelpKINode Title="SharpCraft.Net.Packets.Packet class" Url="html/c646cf91-a3ec-89fe-ba0d-61d92a970a04.htm" />
+  <HelpKINode Title="SharpCraft.Net.Packets.PacketID enumeration" Url="html/2b90cf39-77a2-dec1-b8df-2e3e9c895e9d.htm" />
+  <HelpKINode Title="SharpCraft.Player namespace" Url="html/428c6678-e616-053b-f431-af3346ea6d55.htm" />
+  <HelpKINode Title="SharpCraft.Player.PlayerEntity class" Url="html/25930140-448e-19d7-4e39-8f91204d051f.htm" />
+  <HelpKINode Title="SharpCraft.Player.PlayerEntity class" Url="html/8378b8ee-b4d5-bf1f-be83-a8b57cf23a5b.htm" />
+  <HelpKINode Title="SharpCraft.ProtocolVersion field" Url="html/7e4628ba-2760-60ba-a547-83109ef8a473.htm" />
+  <HelpKINode Title="SharpCraft.Settings class" Url="html/863848ea-3247-6439-0356-c56b876dc76a.htm" />
+  <HelpKINode Title="SharpCraft.Settings class" Url="html/915d11a6-68bf-084a-2e72-218d9db9ba64.htm" />
+  <HelpKINode Title="SharpCraft.SharpCraft class" Url="html/b2c4a1fc-6bb2-84f0-871b-a8e8a9bfeb89.htm" />
+  <HelpKINode Title="SharpCraft.SharpCraft class" Url="html/d345012e-4ab8-22c0-04ca-f51d962fdc73.htm" />
+  <HelpKINode Title="SharpCraft.SharpCraft constructor" Url="html/d6aefe8e-0871-2722-78b2-b0bbf33a46aa.htm" />
+  <HelpKINode Title="SharpCraft.Start method" Url="html/cda5be9d-6f36-1584-e81d-fd2b823d4173.htm" />
+  <HelpKINode Title="SharpCraft.Stop method" Url="html/ba919a1b-6932-ee2b-5fad-56a0bb0bc71e.htm" />
+  <HelpKINode Title="SharpCraft.World namespace" Url="html/5056e83d-1006-045f-93ae-d26abba62455.htm" />
+  <HelpKINode Title="SharpCraft.World.Map class" Url="html/72e90af4-b57f-3fb5-7be2-fa312f9734dd.htm" />
+  <HelpKINode Title="SharpCraft.World.Map class" Url="html/e02cd495-d489-f219-030c-22e21faadc72.htm" />
+  <HelpKINode Title="Size property" Url="html/6125cda7-f9a1-3916-2caa-de5aca7081fc.htm" />
+  <HelpKINode Title="South property" Url="html/6b5c7a07-1953-75db-85cd-d47782febbe5.htm" />
+  <HelpKINode Title="Start method" Url="html/cda5be9d-6f36-1584-e81d-fd2b823d4173.htm" />
+  <HelpKINode Title="Stop method" Url="html/ba919a1b-6932-ee2b-5fad-56a0bb0bc71e.htm" />
+  <HelpKINode Title="Tags property" Url="html/ca2ce58d-9579-e62f-71a7-8fce01176bc9.htm" />
+  <HelpKINode Title="TcpClient property" Url="html/ccc9e7d6-f753-b78b-c357-6f2799ce92fa.htm" />
+  <HelpKINode Title="TimeOnFire property" Url="html/bf0f93fc-7d3d-f829-7028-238d71538c1e.htm" />
+  <HelpKINode Title="TypeID property" Url="html/2940e214-1f93-1d92-bdc3-517213fe432e.htm" />
+  <HelpKINode Title="TypeID property" Url="html/91e7cc4c-4a35-5fdd-a821-e2fb5127c3a4.htm" />
+  <HelpKINode Title="Up property" Url="html/15122260-46bc-622b-0262-4c048783fd9e.htm" />
+  <HelpKINode Title="Vector3 class" Url="html/856f7c87-0b47-8360-fdd9-ad647e1a27ba.htm" />
+  <HelpKINode Title="Vector3 class" Url="html/c7ef2619-c6f3-ff55-54e9-87114c32ed24.htm" />
+  <HelpKINode Title="Vector3 class">
+    <HelpKINode Title="about Vector3 class" Url="html/c7ef2619-c6f3-ff55-54e9-87114c32ed24.htm" />
+    <HelpKINode Title="all members" Url="html/856f7c87-0b47-8360-fdd9-ad647e1a27ba.htm" />
+    <HelpKINode Title="constructor" Url="html/e16788be-5c11-9fbe-8763-9b1af836c08a.htm" />
+    <HelpKINode Title="methods" Url="html/a2211d03-8ad3-e5eb-56cf-f39acde1c68c.htm" />
+    <HelpKINode Title="operators" Url="html/eac4c744-9a96-6997-6c85-3dd8db5fd19e.htm" />
+    <HelpKINode Title="properties" Url="html/391e083a-2e83-3b5a-4be9-613c08b652d5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Vector3.Addition operator" Url="html/1af3388b-f9b7-fce6-a682-ff620f29925d.htm" />
+  <HelpKINode Title="Vector3.Backward property" Url="html/341f678b-6d2b-04e1-1598-fa7728c49d71.htm" />
+  <HelpKINode Title="Vector3.Clone method" Url="html/8e86f819-1e20-d2ad-8ffe-bed3eb1ff7c3.htm" />
+  <HelpKINode Title="Vector3.Down property" Url="html/af5d6028-fabc-0298-6acd-0dc4548b9f14.htm" />
+  <HelpKINode Title="Vector3.East property" Url="html/04c73c6a-9bad-81ce-6dad-b78fdd021ffb.htm" />
+  <HelpKINode Title="Vector3.Equals method" Url="html/6bbfe7a0-2157-abcd-1da4-2b69ebfa9364.htm" />
+  <HelpKINode Title="Vector3.Floor method" Url="html/3654ac10-cce7-cc33-bd57-82037a117c5e.htm" />
+  <HelpKINode Title="Vector3.Forward property" Url="html/0e505ba1-815f-e17b-9b18-4634dbb72863.htm" />
+  <HelpKINode Title="Vector3.Left property" Url="html/a6d0ed24-aa55-d0ba-24a1-1f2143b05852.htm" />
+  <HelpKINode Title="Vector3.North property" Url="html/abdf5841-4a0d-5a00-b52f-bb6af99c884c.htm" />
+  <HelpKINode Title="Vector3.One property" Url="html/ca6e6dab-d4f0-282e-31bc-51c3cf1ec40d.htm" />
+  <HelpKINode Title="Vector3.Right property" Url="html/d4a3af71-db35-66f1-74c7-a974c73d1327.htm" />
+  <HelpKINode Title="Vector3.South property" Url="html/6b5c7a07-1953-75db-85cd-d47782febbe5.htm" />
+  <HelpKINode Title="Vector3.Up property" Url="html/15122260-46bc-622b-0262-4c048783fd9e.htm" />
+  <HelpKINode Title="Vector3.Vector3 constructor" Url="html/e16788be-5c11-9fbe-8763-9b1af836c08a.htm" />
+  <HelpKINode Title="Vector3.West property" Url="html/f2c1bfcb-ade7-d879-8103-4ebd4153eac5.htm" />
+  <HelpKINode Title="Vector3.Zero property" Url="html/b30e6093-30e6-1ee4-dee3-0db18055fb82.htm" />
+  <HelpKINode Title="Velocity property" Url="html/61b40f60-2c82-108e-c978-f73cc16b5764.htm" />
+  <HelpKINode Title="West property" Url="html/f2c1bfcb-ade7-d879-8103-4ebd4153eac5.htm" />
+  <HelpKINode Title="WorldName property" Url="html/43efc618-1a23-e9bd-801c-12baf216629d.htm" />
+  <HelpKINode Title="Zero property" Url="html/b30e6093-30e6-1ee4-dee3-0db18055fb82.htm" />
+</HelpKI>
