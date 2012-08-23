@@ -26,7 +26,7 @@ namespace SharpCraft
 
 		private static readonly string SettingsFile =
 			Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "SharpCraft", "settings.yml");
-
+	
 		private static TcpListener _listener;
 		private static Timer _network;
 		private static Timer _ticks;
